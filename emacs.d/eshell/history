@@ -1,0 +1,128 @@
+./mdarius_menu 
+valgrind ./mdarius_menu 
+clear
+make clean
+make 
+./mdarius_menu 
+valgrind ./mdarius_menu 
+make 
+./mdarius_menu 
+valgrind ./mdarius_menu 
+clear
+./mdarius_menu 
+make
+./mdarius_menu 
+make 
+clear
+./mdarius_menu 
+clear
+./mdarius_menu 
+make
+clear
+make
+make
+clear
+./mdarius_menu 
+make
+clear
+make 
+clear
+make
+clear
+make
+make
+clear
+make
+make clean
+make
+clear
+make
+clear
+make
+clear
+make
+./mdarius_menu 
+./mdarius_menu | wc -l
+clear && make clean
+clear 
+make
+./mdarius_menu | wc -l
+./mdarius_menu
+clearim-chooser.desktop
+clear
+./mdarius_menu 
+man strcmp
+make
+make
+./mdarius_menu 
+make 
+clear
+./mdarius_menu 
+./mdarius_menu | wc -l
+clear
+make
+clear
+make
+clear
+make
+./mdarius_menu 
+clear
+make
+clear
+make
+./mdarius_menu 
+./mdarius_menu 
+clear
+clear
+make
+./mdarius_menu 
+make
+clear
+./mdarius_menu 
+clear
+./mdarius_menu 
+make
+clear 
+./mdarius_menu 
+make
+./mdarius_menu 
+make
+make
+clear
+./mdarius_menu 
+clear
+make
+./mdarius_menu 
+clear 
+make
+clear
+make
+clear
+make
+./mdarius_menu 
+clear
+make
+clear
+make
+clear
+make
+clear
+make
+./mdarius_menu 
+make
+clear
+make
+clear
+make
+./mdarius_menu 
+poweroff
+make
+./mdarius_menu 
+make 
+./mdarius_menu 
+poweroff
+make
+./mdarius_menu 
+cd Documents/dotfiles/
+gh
+gh repo create

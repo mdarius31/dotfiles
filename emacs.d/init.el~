@@ -1,0 +1,32 @@
+(global-unset-key (kbd "C-x t o"))
+(global-unset-key (kbd "C-x right"))
+(global-unset-key (kbd "C-x left"))
+(global-set-key (kbd "C-x C-a") 'all)
+(setq backup-directory-alist '(("." . "~/.emacs_saves")))
+
+;;(global-set-key (kbd "C-x t n") 'tab-next)
+;;(global-set-key (kbd "C-x t p") 'tab-previous)
+(global-set-key (kbd "C-x right") 'tab-next)
+(global-set-key (kbd "C-x left") 'tab-previous)
+
+(custom-set-variables
+ '(add-to-list 'load-file t)
+ '(custom-enabled-themes '(tango-dark))
+ '(custom-safe-themes t)
+ '(font-lock-global-modes '(not speedbar-mode))
+ '(inhibit-startup-screen t)
+ '(menu-bar-mode nil)
+ '(package-selected-packages '(which-key all))
+ '(tool-bar-mode nil)
+ '(which-key-idle-delay 0.0)
+ '(which-key-mode t)
+ '(initial-scratch-message nil)
+ '(tab-bar-mode t)
+ )
+
+(custom-set-faces
+
+)
+
+
+
